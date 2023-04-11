@@ -23,4 +23,3 @@ jobs:
       - uses: retypeapp/action-github-pages@latest
         with:
           update-branch: true
-url: sadigulbey.github.io/tickript.github.io/
