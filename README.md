@@ -1,10 +1,10 @@
 # Introduction
 
-Introducing our cutting-edge Flutter ticket app powered by Web3 technology! With our app, you can create, manage, and participate in exciting events like never before. Whether you're organizing a concert, sports game, conference, or any other event, our app provides a seamless and secure platform for all your ticketing needs.
+Introducing our cutting-edge Flutter ticket marketplace powered by Web3 technology! With Tickript, you can create, manage, and participate in exciting events like never before. Whether you're organizing a concert, sports game, conference, or any other event, Tickript provides a seamless and secure platform for all your ticketing needs.
 
-One of the key features of Tickript is the ability to create events with just a few taps. You can set up event details such as date, time, and ticket pricing, and our app will generate unique and verifiable tickets using blockchain technology. This ensures that your event tickets are tamper-proof and cannot be duplicated, providing enhanced security and trust.
+One of the key features of Tickript is the ability to create events with just a few taps. You can set up event details such as date, time, and ticket pricing, and Tickript will generate unique and verifiable tickets using blockchain technology. This ensures that your event tickets are tamper-proof and cannot be duplicated, providing enhanced security and trust.
 
-Selling and transferring tickets has never been easier with Tickript. You can list your tickets for sale on the app's marketplace, where buyers can securely purchase tickets using cryptocurrency or other payment methods. Tickets can also be easily transferred to friends, family, or other users with just a few clicks, making it convenient and hassle-free to manage your tickets.
+Selling and transferring tickets has never been easier with Tickript. You can list your tickets for sale on the Tickript's marketplace, where buyers can securely purchase tickets using cryptocurrency or other payment methods. Tickets can also be easily transferred to friends, family, or other users with just a few clicks, making it convenient and hassle-free to manage your tickets.
 
 Tickript also supports auctions, allowing users to create ticket auctions and bid on tickets in a transparent and decentralized manner. The highest bidder wins the auction, and the tickets are automatically transferred to their digital wallet upon successful bid, ensuring a fair and efficient auction process.
 
