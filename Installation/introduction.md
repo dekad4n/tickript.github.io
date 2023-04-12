@@ -1,0 +1,2 @@
+# Introduction to Installation
+Tickript have been tested with Android emulators. We do not promise to work on any devices other than Androids. Also, if you are going to deploy our backend in your local machine, we all have used Windows machines (due to our lack of resources).
