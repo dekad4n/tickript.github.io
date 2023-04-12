@@ -2,7 +2,7 @@
 
 Home page is default screen of Tickript. The log-in state does not affect what home page looks like. It can be accessed by clicking bottom navigation bar's first icon. The home page looks like:
 <br/> <br/>
-<img src="{{site.baseurl}}/static/pages/home.png" style="height:500px;"></img>
+<img src="https://raw.githubusercontent.com/sadigulbey/tickript.github.io/main/static/pages/home.png" style="height:500px;"></img>
 
 The usage of home page is pretty simple. It has two parts:
 - Categories

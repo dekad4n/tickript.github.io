@@ -4,9 +4,9 @@ Search page is a simple search page in which there exists a text box. When user 
 
 Without input it looks like:
 <br/> <br/>
-<img src="static/pages/search.png" style="height:500px;"></img>
+<img src="https://raw.githubusercontent.com/sadigulbey/tickript.github.io/main/static/pages/search.png" style="height:500px;"></img>
 
 <br /><br/>
 With input "pool", it looks like:
 <br/> <br/>
-<img src="static/pages/search_searched.png" style="height:500px;"></img>
+<img src="https://raw.githubusercontent.com/sadigulbey/tickript.github.io/main/static/pages/search_searched.png" style="height:500px;"></img>
