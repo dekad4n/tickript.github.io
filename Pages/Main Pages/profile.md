@@ -3,6 +3,8 @@
 The aim of ours when creating a profile page to give opportunity to both event managers and ordinary users. Event managers should have been able to create events, mint tickets and sell them starting from their profile pages. Also, they should have been able to see their created events. On the other hand, ordinary users should have been able to see their own tickets.
 Also, all users should be able to login into application.
 
+Profile page is fed from [Profile Modal](/Modals/profile.md).
+
 To reach our aims, we have created the profile page with 3 different states:
 - Logged out state
 - Logged in state

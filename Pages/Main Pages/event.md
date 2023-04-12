@@ -5,7 +5,7 @@ Event page is an input-specific page. Therefore, it needs to be accessed through
 
 These event cards can be found in Home, Profile or in search section. 
 
-Event page is fed from event modal. To see what event modal looks like, see [Event Modal](/Models/event.md).
+Event page is fed from event modal. To see what event modal looks like, see [Event Modal](/Modals/event.md).
 
 Events are created with event creation process. Therefore, the event page is formed from actually event owner's inputs.
 
@@ -30,10 +30,13 @@ Ordinary user view:
 <br/><br/>
 
 Event owner view:
+<br /> <br />
 <img src="https://raw.githubusercontent.com/sadigulbey/tickript.github.io/main/static/pages/ev_ow_event_page_p1.png" style="height:500px;"></img>
 <img src="https://raw.githubusercontent.com/sadigulbey/tickript.github.io/main/static/pages/ev_ow_event_page_p2.png" style="height:500px;"></img>
-
-
+<br/><br/>
+Expired event page:
+<br/><br/>
+<img src="https://raw.githubusercontent.com/sadigulbey/tickript.github.io/main/static/pages/ev_page_expired.png" style="height:500px;"></img>
 
 
 
