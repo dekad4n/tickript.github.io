@@ -60,6 +60,7 @@ flutter pub get
 
 If you do not face any error, open an Android Emulator and run project through your personal choices.
 
+Add mumbai testnet into your Metamask's networks, and switch to it.
 
 That is it! You have installed our development environment on your local machine.
 
