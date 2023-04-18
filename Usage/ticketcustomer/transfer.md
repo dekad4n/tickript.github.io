@@ -3,7 +3,7 @@ To transfer a ticket, you should own a ticket. If you are an event owner, please
 
 Metamask will be opened, it it asks for your password, enter it. Then, you will be asked for signing a costless transaction, scroll until you see the confirm button, and click it:
 <br /> <br/>
-<img src="https://raw.githubusercontent.com/sadigulbey/tickript.github.io/main/static/usage/m_buy.png" style="height:500px;"></img>
+<img src="https://raw.githubusercontent.com/sadigulbey/tickript.github.io/main/static/usage/m_transfer.png" style="height:500px;"></img>
 <br /><br />
 
 You have successfuly transferred your ticket. Thet ticket is visible transferred public address' user under [My Tickets Page](/Pages/Subpages/mytickets.md)!

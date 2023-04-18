@@ -4,6 +4,8 @@ The main goal of Workflows part is to introduce operational and algorithmic part
 Mainly this part is for **developers**. Therefore, if you do not have any background about Software Engineering, see [Usage](/Usage/introduction.md).
 
 In this part we will look at these:
+- General
+    - Authentication
 - Backend
     - Routes (APIs)
         - Authentication
@@ -14,11 +16,13 @@ In this part we will look at these:
         - Market
         - Auction
         - Utils
-
+    - Middlewares
+        - Authentication
 - Mobile
-    - Metamask
+    - Classes
     - Connection to backend
     - Providers
+- Contract
 
 The parts will provide general workflow, therefore they will not include any part of our codes. 
 
