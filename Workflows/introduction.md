@@ -22,7 +22,6 @@ In this part we will look at these:
     - Classes
     - Connection to backend
     - Providers
-- Contract
 
 The parts will provide general workflow, therefore they will not include any part of our codes. 
 
